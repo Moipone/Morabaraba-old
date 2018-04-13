@@ -177,7 +177,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\g15r2152\\.nuget\\packages\\": {},
+    "C:\\Users\\g16t1539\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -187,18 +187,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g15r2152\\Desktop\\Morabaraba-9001\\Morabaraba-9001.Test\\Morabaraba_9001.Test.csproj",
+      "projectUniqueName": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16t1539\\Desktop\\2018\\Morabaraba-9001\\Morabaraba-9001.Test\\Morabaraba_9001.Test.csproj",
       "projectName": "Morabaraba_9001.Test",
-      "projectPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g15r2152\\Desktop\\Morabaraba-9001\\Morabaraba-9001.Test\\Morabaraba_9001.Test.csproj",
-      "packagesPath": "C:\\Users\\g15r2152\\.nuget\\packages\\",
-      "outputPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g15r2152\\Desktop\\Morabaraba-9001\\Morabaraba-9001.Test\\obj\\",
+      "projectPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16t1539\\Desktop\\2018\\Morabaraba-9001\\Morabaraba-9001.Test\\Morabaraba_9001.Test.csproj",
+      "packagesPath": "C:\\Users\\g16t1539\\.nuget\\packages\\",
+      "outputPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16t1539\\Desktop\\2018\\Morabaraba-9001\\Morabaraba-9001.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\g15r2152\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\g16t1539\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],

@@ -1,0 +1,9 @@
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\bin\Debug\netstandard2.0\Morabaraba_9001.Test.deps.json
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\bin\Debug\netstandard2.0\Morabaraba_9001.Test.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\bin\Debug\netstandard2.0\Morabaraba_9001.Test.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\obj\Debug\netstandard2.0\Morabaraba_9001.Test.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\obj\Debug\netstandard2.0\Morabaraba_9001.Test.csproj.CoreCompileInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\obj\Debug\netstandard2.0\Morabaraba_9001.Test.AssemblyInfoInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\obj\Debug\netstandard2.0\Morabaraba_9001.Test.AssemblyInfo.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\obj\Debug\netstandard2.0\Morabaraba_9001.Test.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16t1539\Desktop\2018\Morabaraba-9001\Morabaraba-9001.Test\obj\Debug\netstandard2.0\Morabaraba_9001.Test.pdb
