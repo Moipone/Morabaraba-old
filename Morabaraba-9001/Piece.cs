@@ -6,6 +6,11 @@ namespace Morabaraba_9001
 {
     class Piece : IPiece
     {
+        public Piece()
+        {
+
+        }
+
         public Status Status => throw new NotImplementedException();
 
         public Symbol Symbol => throw new NotImplementedException();
