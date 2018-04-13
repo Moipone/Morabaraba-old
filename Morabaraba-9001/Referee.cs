@@ -6,6 +6,10 @@ namespace Morabaraba_9001
 {
     public class Referee : IReferee
     {
+        public Referee()
+        {
+        }
+
         public bool IsDraw()
         {
             throw new NotImplementedException();
